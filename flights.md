@@ -2,31 +2,37 @@
 
 ## Flights
 
-CA 国航
-Beijing - Paris            CA933 Wed/CA944 Wed              TianJin
-Beijing - Copenhagen       CA877 Mon/CA878 Mon              ShiJiaZhuang
-Beijing - Minsk            CA721 Fri/CA722 Fri              HuHeHaoTe
-Beijing - Madrid           CA907 Sat/CA908 Sat              TianJin
-Beijing - Stockholm        CA911 Fri/CA912 Fri              TianJin
-Beijing - Warsaw           CA737 Fri/CA734 Fri              TaiYuan
-Beijing - Vienna           CA841 Sat/CA842 Sat              HuHeHaoTe
-Beijing - Moscow           CA909 Fri/CA910 Fri              ShenYang/QIngDao/ZhenZhou/SHijiaZHuang/NanJing
-Beijing - Athens           CA863 Sat/CA864 Sat              ShiJiaZhuang
-Shanghai - Frankfurt       CA935 Sat/CA936 Sat
-Shanghai - London          CA849 Fri/CA850 Fri
+### CA 国航
+| *Departure/Arrival*      | *Flight No*        |
+|:------------------------ |:-------------------|
+|`Beijing - Paris`         | CA933/CA944 Wed    |
+|Beijing - Copenhagen      | CA877/CA878 Mon    |
+|Beijing - Minsk           | CA721/CA722 Fri    |
+|Beijing - Madrid          | CA907/CA908 Sat    |
+|Beijing - Stockholm       | CA911/CA912 Fri    |
+|Beijing - Warsaw          | CA737/CA734 Fri    |
+|Beijing - Vienna          | CA841/CA842 Sat    |
+|Beijing - Moscow          | CA909/CA910 Fri    |
+|Beijing - Athens          | CA863/CA864 Sat    |
+|`Shanghai - Frankfurt`    | CA935/CA936 Sat    |
+|Shanghai - London         | CA849/CA850 Fri    |
 
-CZ 南航
-Guangzhou - Amsterdam      CZ307 Thu/CZ308 Fri
-GuangZhou - Paris          CZ347 Mon/CZ348 Tue
-GuangZhou - London         CZ303 Wed/CZ304 Thu
+### CZ 南航
+| *Departure/Arrival*      | *Flight No*            |
+|:------------------------ |:-----------------------|
+|`Guangzhou - Amsterdam`   | CZ307/CZ308  Thu/Fri    |      
+|`GuangZhou - Paris`       | CZ347/CZ348  Mon/Tue    |
+|GuangZhou - London        | CZ303/CZ304  Wed/Thu    |
 
-MU 东航
-Shanghai - London          MU551 Thu/MU552 Fri
-Shanghai - Amsterdam       MU771 Sun/MU772 Mon
-Shanghai - Paris           MU553 Sat/MU570 Sun
-Shanghai - Frankfurt       MU219 Mon/MU220 Tue
+### MU 东航
+| *Departure/Arrival*      | *Flight No*            |
+|:------------------------ |:-----------------------|
+|Shanghai - London         | MU551/MU552  Thu/Fri    |
+|Shanghai - Amsterdam      | MU771/MU772  Sun/Mon    |
+|Shanghai - Paris          | MU553/MU570  Sat/Sun    |
+|Shanghai - Frankfurt      | MU219/MU220  Mon/Tue    |
 
-MF 厦航
+### MF 厦航
 Xiamen - Amsterdam         MF811 Web/MF812 Web 
 
 HO 吉祥
